@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/landing-react/build/static/css/main.31d6cfe0.css",
+    "main.js": "/landing-react/build/static/js/main.f2154a25.js",
+    "static/media/testimonio-emma.png": "/landing-react/build/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "index.html": "/landing-react/build/index.html",
+    "main.f2154a25.js.map": "/landing-react/build/static/js/main.f2154a25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f2154a25.js"
+  ]
+}
