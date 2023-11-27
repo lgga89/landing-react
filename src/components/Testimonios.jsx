@@ -1,6 +1,6 @@
 import React from "react";
 
-function Testimonios() {
+export function Testimonios() {
   return (
     <div className="container__testimonials">
       <img
@@ -22,5 +22,3 @@ function Testimonios() {
     </div>
   );
 }
-
-export default Testimonios;
