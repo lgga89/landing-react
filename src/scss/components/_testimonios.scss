@@ -1,0 +1,22 @@
+.container__testimonials {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  margin: 20px;
+
+  .image__testimonials {
+    width: 80%;
+    padding: 10px;
+  }
+  .container__text--testimonials {
+    padding: 20px;
+    font-family: "Teko", sans-serif;
+    font-size: 30px;
+    .name__testimonial {
+      font-size: 45px;
+    }
+  }
+}
