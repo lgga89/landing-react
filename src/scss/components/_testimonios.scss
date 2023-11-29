@@ -10,6 +10,7 @@
   .image__testimonials {
     width: 80%;
     padding: 10px;
+    margin-top: 40px;
   }
   .container__text--testimonials {
     padding: 20px;
@@ -19,4 +20,11 @@
       font-size: 45px;
     }
   }
+}
+
+h1 {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+  background: white;
 }
