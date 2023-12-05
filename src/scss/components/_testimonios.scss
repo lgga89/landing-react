@@ -49,3 +49,16 @@ h1 {
     }
   }
 }
+
+@media screen and (min-width: 900px) {
+  .container__testimonials {
+    display: flex;
+
+    .image__testimonials {
+      width: 50%;
+    }
+    .container__text--testimonials {
+      font-size: 40px;
+    }
+  }
+}
